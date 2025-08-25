@@ -1,5 +1,8 @@
 {
     "Versions":{
+        "1.8.8": {
+            "notes": "- Added DanDaDan rift and DanDaDan card selector.\n- Added the missing burning spirit tree ex stage\n- Added 'Action in vote' toggle to the first action of configs: 'If turned one the macro will do this action before starting the match (before vote start).'"
+        },
         "1.8.7": {
             "notes": "Added all new maps and fixed the macro to work with av 8.0"
         },
