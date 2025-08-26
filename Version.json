@@ -1,5 +1,8 @@
 {
     "Versions":{
+        "1.8.9": {
+            "notes": "- Added a option to change between 3h rift timer a 1h rift timer."
+        },
         "1.8.8": {
             "notes": "- Fixed burning spirit tree map having a wrong position.\n- Added DanDaDan rift and DanDaDan card selector.\n- Added the missing burning spirit tree ex stage\n- Added 'Action in vote' toggle to the first action of configs: 'If turned one the macro will do this action before starting the match (before vote start).'"
         },
