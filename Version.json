@@ -1,5 +1,5 @@
 {
-    "Versions":{
+    "Versions": {
         "1.9.0": {
             "notes": "- Fixed not begin able to use presets without a unit selected.\n- Added update notification, when u open the macro if u using a old version from 1.9.0 > it will notify u, u can disable this at 'Debug' Tab.\n- Fixed Escanor messing up with detection of some maps, also maybe improved detection for all maps."
         },
