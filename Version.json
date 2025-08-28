@@ -1,5 +1,8 @@
 {
     "Versions": {
+        "1.9.2": {
+            "notes": "- Fixed super slow positioning.\n- The macro now waits 10s for vote label to appear after finish positioning instead of 60s."
+        },
         "1.9.1": {
             "notes": "- Improved positioning.\n- Fixed Ant island raid pathing.\n- Updated auto close chat for the roblox ui, if u still on the old one disable chat keybind on your macro and close the chat by yourself.\n- 'Hill of Swords' and 'Burning Spirit Tree' maps now defends at the back, update your configs."
         },
