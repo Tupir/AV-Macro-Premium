@@ -1,5 +1,8 @@
 {
     "Versions": {
+        "1.9.3": {
+            "notes": "- Fixed presets not working as expected, presets will click on the specified (X, Y) searching for a unit if no unit selected, unless the specified (X,Y) in that Action/Unit Slot is exactly (0,0), if so the macro will not try to select the unit and directly do the preset. (this was a issue since 1.9.0 and configs like 'Challenges + Bounty + Worldlines Config' were having bad win rates)."
+        },
         "1.9.2": {
             "notes": "- Fixed super slow positioning.\n- The macro now waits 10s for vote label to appear after finish positioning instead of 60s."
         },
