@@ -1,5 +1,8 @@
 {
     "Versions": {
+        "1.9.5": {
+            "notes": "- Fixed challenges not working properly.\n- Fixed discord webhook.\n- Fixed side task overlapping portals order and current portals frames."
+        },
         "1.9.4": {
             "notes": "- Presets should be way more intuitive now, if you dont add (X,Y) coords to and u add 'Clicks' it will just do the clicks, if u add (X,Y) coords and no clicks, it will do 1 click anyways because the action its called 'Click', but if u add more 'Clicks' it will instead do the extact ammount of clicks u added on 'Clicks', meaning that if u add a 1 in 'Clicks' on the action that is already a click, it will only perform a single click instead of 2.\n- Updated presets loader and fixed bugs.\n- Added 'Hard mode' option to Boss Rush.\n- Challenges will now always be done at XX:00, XX:30\n- Fixed Ant island raid pathing (again).\n- Fixed some issues with the cancel button\n- Fixed the positioning in 'Hill of Swords' map."
         },
