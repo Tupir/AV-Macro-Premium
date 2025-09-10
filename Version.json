@@ -1,5 +1,8 @@
 {
     "Versions": {
+        "1.9.6": {
+            "notes": "- Fixed daily rewards check.\n- Removed the zoom in and zoom out in lfelt and buu portals.\n- Reverted how the macro closes the chat, since roblox removed the annoying new ui."
+        },
         "1.9.5": {
             "notes": "- Fixed challenges not working properly.\n- Fixed discord webhook.\n- Fixed side task overlapping portals order and current portals frames."
         },
